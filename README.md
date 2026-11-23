@@ -2,13 +2,11 @@
 
 # Carlos A. Ugarte
 
-### Applied AI · Data Science & Machine Learning · Agentic Systems · Business Analytics
+**Applied AI | Data Science & Machine Learning | Agentic Systems | Business Analytics**
 
-**Economist | Business Leader | Technology Educator | Applied AI Research**
+[🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md)
 
-*Bridging scientific research, intelligent technologies, and business decision-making.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-carlosugarteok-181717?logo=github)](https://github.com/carlosugarteok)
+**[About](#about-me) · [Expertise](#areas-of-expertise) · [Projects](#featured-projects) · [Research](#research-interests) · [Contact](#connect--collaborate)**
 
 </div>
 

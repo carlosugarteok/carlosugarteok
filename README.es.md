@@ -8,6 +8,8 @@
 
 **[Sobre mí](#sobre-mí) · [Especializaciones](#especializaciones) · [Proyectos](#proyectos-destacados) · [Investigación](#investigación) · [Colaboración](#colaboración)**
 
+</div>
+
 ---
 
 ## Sobre mí

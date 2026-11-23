@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am an economics professional, technology educator, and business leader with hands-on experience in credit and collections management. My interests lie at the intersection of **business strategy, data science, machine learning, and agentic AI**.
+I am an economics professional, technology educator, and business leader with hands-on experience in credit management. My interests lie at the intersection of **business strategy, data science, machine learning, and agentic AI**.
 
 I explore how analytical methods and intelligent systems can support better decisions, improve operational processes, and create measurable business value. My approach emphasizes **reproducibility, methodological rigor, model evaluation, responsible AI, and business relevance**.
 
@@ -76,7 +76,7 @@ Alongside my applied portfolio, I pursue research interests in:
 
 My work combines three complementary perspectives:
 
-1. **Business practice:** understanding operational decisions, credit risk, collections, and organizational constraints.
+1. **Business practice:** understanding operational decisions, credit risk, and organizational constraints.
 2. **Analytical practice:** applying quantitative reasoning, Python, data science, and machine learning to business questions.
 3. **Education and research:** translating complex methods into structured, reproducible, and understandable knowledge.
 

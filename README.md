@@ -86,6 +86,23 @@ My work combines three complementary perspectives:
 
 I value transparent assumptions, clear limitations, appropriate validation, and a meaningful connection between technical results and business decisions.
 
+## Education & Academic Contributions
+
+### Applied Data Science and Machine Learning Course
+
+An academic initiative focused on developing knowledge
+and capabilities in Data Science, Machine Learning,
+and Advanced Analytics.
+
+The course integrates theoretical foundations, technical
+guides, reproducible Python notebooks, practical exercises,
+and real-world business applications.
+
+**Status:** In active development, with new lessons
+published progressively.
+
+[Explore the Course](https://github.com/carlosugarteok/Curso-Data-Science-Machine-Learning)
+
 ## Collaboration
 
 I welcome conversations and collaborations with researchers, educators, and business professionals working on **applied AI, agentic systems, business analytics, credit risk, and decision intelligence**.

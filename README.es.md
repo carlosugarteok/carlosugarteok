@@ -51,6 +51,21 @@ Mis principales intereses de investigación incluyen:
 - Business Analytics y sistemas de apoyo a las decisiones.
 - Evaluación rigurosa de modelos de Machine Learning.
 
+## Educación y producción académica
+
+### Curso de Data Science y Machine Learning Aplicado
+
+Iniciativa académica orientada al desarrollo de capacidades
+en Data Science, Machine Learning y analítica avanzada.
+
+El curso integra fundamentos conceptuales, guías técnicas,
+notebooks reproducibles en Python, ejercicios prácticos
+y aplicaciones empresariales.
+
+**Estado:** En desarrollo activo.
+
+[Acceder al curso](https://github.com/carlosugarteok/Curso-Data-Science-Machine-Learning)
+
 ## Colaboración
 
 Me interesa colaborar con investigadores, docentes, profesionales y organizaciones en proyectos relacionados con IA aplicada, sistemas agénticos, analítica avanzada y transformación empresarial.
